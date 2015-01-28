@@ -1,0 +1,51 @@
+For a complete overview of the models and theory behind this website, see
+<strong>Keen, EM. 2015. Net savvy: a practical design to plankton sampler design. NOAA-TM-SWFSC-####. 31 pp. </strong>
+
+Available here.
+
+<strong>Starting Points</strong>
+To perform well and consistently, a good net must achieve the following:
+1. Sample for a target duration before clogging deteriorates filtration efficiency and the size selectivity of the mesh.
+2. Retain the organisms targeted by the study’s objectives, minimizing their ability to avoid the net and extrude through the mesh.
+3. Filter a sufficient volume of water over sufficient depths to provide statistically robust results.
+4. Be sustainably operable given the finite energies of the crew and resources at disposal.
+
+The imperative upon which all other criteria hinge, and the concern that will organize and motivate the decision tree outlined below, is the need to maximize and maintain a net’s filtration efficiency (1). In the end, however, if a net suffers from a poor filtration efficiency to begin with and clogs easily, it will fail at both capturing target organisms (2) and filtering sufficient volumes of water at a sustained efficacy (3). The resources devoted to the study (4) would therefore be wasted.
+
+Filtration efficiency is the percent of water a net passes through that is actually sampled. Net performance can be discussed in terms of both initial and sustained filtration efficiency (IFE and SFE, respectively) . In addition to diminishing the volume sampled, clogging over the course of a tow can cause a net to become increasingly size selective, which introduces a host of biases to results. Filtration efficiency can also affect rates of net avoidance and escapement (Tranter &amp; Smith 1968).
+
+<strong>The Design Process</strong>
+The design process begins by (1) rigorously answering basic questions about study objectives and target organisms, the study area, and the resources at hand. These answers will determine (2) the mesh size required (and its associated porosity) and (3) a range of viable mouth diameters. Finally, to determine overall net length, (4) a target tow volume must be set, which (5) informs the minimum OAR permissible given mesh size, mouth diameter, and the qualities of the study area. 6) The one variable that remains is the overall net length, which can now be manipulated to achieve the minimum OAR. A case study is used to demonstrate the process in practice.
+
+<strong>Details</strong>
+
+<strong>Initial Filtration Efficiency (IFE)</strong>
+The general shape of a net, the speed at which it is towed, and the care it receives will contribute to its initial (inherent) filtration efficiency (IFE).
+
+Typical IFE values for nets include:
+
+<strong>Open-Area Ratio</strong>
+A net can be designed to sustain its initial filtration efficiency for a target tow volume by strategically selecting the net’s mesh size, mouth diameter and overall length. Sustained filtration efficiency is best indicated by the Open-Area Ratio (OAR), the ratio of effective filtering area to mouth area.
+
+The OAR of a net is a compromise between porosity, filtering area, and mouth area – which are products of a net’s mesh size, diameter, and overall length – all of which are constrained by the organisms of interest, target volume, and resources. As such, the OAR represents a game of trade-offs.
+
+<strong>Mesh Porosity</strong>
+The width of holes in mesh, or porosity, influence SFE in two ways. First, fine gauze will clog more readily than coarse gauze merely because it catches more particles. In order to compensate for the inherently high clogging rate of fine mesh nets, OAR must dramatically increase.
+
+For mesh sizes greater than 300?, Tranter &amp; Smith (1968) recommend an overall OAR of 5 or higher, with an OAR of 3 in the conical portion and an OAR of 2 in the cylinder. They warn that any mesh smaller than that would require an OAR of 9 or higher, with 3 in the cone and 6 in the cylinder. However, in the same monograph, Working Party 2 proposed a standardized net schematic with 200? mesh that had an OAR of only 6:1, 3 in the cylinder and 3 in the cone (Tranter &amp; Fraser 1968). To err on the conservative side (sensu Ohman 2013), we will hold minimum OAR at 9:1 for mesh apertures less than 300?, although such arbitrary thresholds should be taken only as guidelines.
+
+Second, mesh size determines a net’s porosity, which is a term in the equation for OAR. While one would expect porosity to decrease linearly with shrinking mesh size, different widths of Nylon monofilament are used in weaves for various mesh sizes, such that porosity levels rise and fall abruptly as mesh size increases. Since mesh of the same aperture can be available at different porosities and varies among distributors, it behooves investigators to seek out the most porous mesh available. Doing so may allow a net to be shorter. While high-porosity material may not be as supple as thick-filament (low porosity) mesh, weave strength is not of great concern for small-scale studies with low tow speeds.
+
+The porosities used here are based on those from Dynamic Aqua Supply and Wildlife Supply Company.
+
+<strong>Net Model Used Here</strong>
+The net design model used here is based on the standard cylindrical-conical (“cyl-cone”) design advocated by UNESCO Working Party no. 2 (WP-2). The WP-2 standard is intended for small-scale studies of plankton 200 micrometers to 10 mm in length within the upper 200m of ocean (Tranter &amp; Fraser 1968, schematic on p. 155). However, the principles and process invoked here should be of use in a variety of applications.
+
+INCLUDE GRAPHIC
+
+Eric Keen
+
+Scripps Institution of Oceanography, 9500 Gilman Drive Mail Code 0208, La Jolla, CA 92093-0208
+Marine Mammal and Turtle Division, Southwest Fisheries Science Center
+National Marine Fisheries Service, NOAA 8901 La Jolla Shores Drive, La Jolla, CA 92037 USA
+ekeen at ucsd dot edu
